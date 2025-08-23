@@ -30,7 +30,7 @@ It helps answer critical business questions such as:
 
 ## 📂 Files Included  
 - `Superstore Sales Dashboard.xlsx` → Completed Excel dashboard  
-- `Superstore Sales Dataset.xlsx` → Dataset used (Kaggle Superstore Sales)  
+- `Superstore Sales Dataset.csv` → Dataset used (Kaggle Superstore Sales)  
 - `image.png` → Preview of the dashboard  
 
 ---
