@@ -27,6 +27,21 @@ I successfully completed the following tasks during the program:
 
 ---
 
+### 🔹 [Task 2 - Exploratory Data Analysis (EDA) on Titanic Dataset](EDA%20on%20Titanic%20Dataset/)  
+- Performed **EDA in Python** using **Pandas, NumPy, Matplotlib, Seaborn**.  
+- Key analysis:  
+  - Survival by Gender, Passenger Class, Age, and Fare  
+  - Impact of traveling alone vs with family  
+  - Correlation analysis of key variables  
+- 📊 **Key Insights:**  
+  - Females had a survival rate of ~74% vs males ~19%.  
+  - 1st class passengers had the highest survival (~62%), while 3rd class had the lowest (~24%).  
+  - Higher fare and younger age increased chances of survival.  
+  - Family presence improved survival rates compared to being alone.  
+- 🎁 **Bonus:** Visualized survival rates using bar plots and heatmaps  
+
+---
+
 ### 🔹 [Task 5 - SQL-Based Analysis of Chinook Database](Task%205%20-%20SQL-Based%20Analysis%20of%20Chinook%20Database/)  
 - Analyzed the **Chinook Database** using SQL queries.  
 - Exported results into Python for **visualization with Matplotlib & Seaborn**.  
