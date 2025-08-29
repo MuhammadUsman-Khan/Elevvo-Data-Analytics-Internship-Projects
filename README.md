@@ -65,10 +65,10 @@ I successfully completed the following tasks during the program:
 ---
 
 ## 🚀 Tools & Technologies Used  
-- **Excel** – Pivot Tables, Charts, KPIs  
-- **SQL** – Queries, Joins, Aggregations, Window Functions  
-- **Python** – Pandas, Matplotlib, Seaborn for visualization  
-- **Power BI** – Data Modeling, DAX, Interactive Dashboards  
+- **Excel** → Dashboarding & KPI Analysis  
+- **SQL (SQLite/MySQL)** → Data Extraction & Querying  
+- **Python (Pandas, NumPy, Matplotlib, Seaborn)** → EDA, Data Visualization  
+- **Power BI** → Interactive Dashboards & Business Intelligence
 
 ---
 
