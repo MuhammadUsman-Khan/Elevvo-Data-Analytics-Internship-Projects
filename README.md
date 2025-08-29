@@ -27,7 +27,7 @@ I successfully completed the following tasks during the program:
 
 ---
 
-### 🔹 [Task 2 - Exploratory Data Analysis (EDA) on Titanic Dataset](EDA%20on%20Titanic%20Dataset/)  
+### 🔹 [Task 2 - Exploratory Data Analysis (EDA) on Titanic Dataset](Task%202%20-%20EDA%20on%20Titanic%20Dataset/)  
 - Performed **EDA in Python** using **Pandas, NumPy, Matplotlib, Seaborn**.  
 - Key analysis:  
   - Survival by Gender, Passenger Class, Age, and Fare  
