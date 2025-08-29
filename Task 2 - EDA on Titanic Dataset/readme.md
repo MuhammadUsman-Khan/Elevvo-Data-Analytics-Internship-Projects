@@ -33,7 +33,7 @@ The objective was to perform **Exploratory Data Analysis (EDA)** on the **Titani
 ![Survival by Passenger Class](Class_Survival.png)  
 
 ### 🔹 Age Distribution of Passengers  
-![Age Distribution](Age_Distribution.png)  
+![Age Distribution](Age_distribution.png)  
 
 ### 🔹 Survival by Age (Box Plot)  
 ![Survival by Age](Survival_Age.png)  
